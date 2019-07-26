@@ -25,7 +25,7 @@
  <li>executar comando "use BookstoreDb"</li>
  <li>executar comando "db.createCollection('Books')"</li>
  <li>executar comando "db.Books.insertMany([{'Name':'A Lei do triunfo','Price':60.93,'Category':'Motivacional','Author':'Napoleon Hill'}, {'Name':'Clean Code','Price':43.15,'Category':'Computers','Author':'Robert C. Martin'}])"</li>
- <li>db.Books.find({}).pretty()</li>
+ <li>executar db.Books.find({}).pretty()</li>
 </ul> 
   
  <h5>Executar </h5>
