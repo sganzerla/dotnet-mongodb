@@ -38,7 +38,7 @@
  
 <h5>Tela Inicial Swagger</h5>
 <p><a target="_blank" rel="noopener noreferrer" href=" https://user-images.githubusercontent.com/22710963/61924934-5c21d680-af40-11e9-9b79-ff7135abc568.png">
-<img src=" https://user-images.githubusercontent.com/22710963/61924934-5c21d680-af40-11e9-9b79-ff7135abc568.png" alt="reset" style="max-width:100%;"></a></p> 
+<img src="https://user-images.githubusercontent.com/22710963/61924934-5c21d680-af40-11e9-9b79-ff7135abc568.png" alt="reset" style="max-width:100%;"></a></p> 
 
 <h5>Consulta via tela Swagger</h5>
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/61924705-5d9ecf00-af3f-11e9-8188-e62dd1c35ce4.png">
