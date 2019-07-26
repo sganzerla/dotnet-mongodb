@@ -39,20 +39,9 @@ namespace BooksApi
                                 c.SwaggerDoc("v1", new OpenApiInfo
                                 {
                                     Version = "v1",
-                                    Title = "Documentação API Eventos Swagger",
-                                    Description = "A simple example ASP.NET Core Web API",
-                                    TermsOfService = new Uri("https://example.com/terms"),
-                                    Contact = new OpenApiContact
-                                    {
-                                        Name = "Shayne Boyer",
-                                        Email = string.Empty,
-                                        Url = new Uri("https://twitter.com/spboyer"),
-                                    },
-                                    License = new OpenApiLicense
-                                    {
-                                        Name = "Use under LICX",
-                                        Url = new Uri("https://example.com/license"),
-                                    }
+                                    Title = "Documentação API Eventos Swagger MongoDB",
+                                    Description = "A simple example ASP.NET Core Web API"                                   
+                                    
                                 });
                             });
 
